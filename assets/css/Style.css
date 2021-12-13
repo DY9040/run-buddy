@@ -11,7 +11,7 @@ body {
 /* apply styles to <header> */
 header {
     padding: 20px 35px;
-    background-color: #39a6b2
+    background-color: #39a6b2;
 
 }
 header h1 {
@@ -32,7 +32,7 @@ header nav {
     margin: 7px 0;
 }
 header nav ul li {
-    display: inline
+    display: inline;
 }
 header nav ul li a {
     margin: 0 30px;
@@ -56,5 +56,5 @@ footer div{
     text-align: right;
 }
 footer a {
-    color: #024e76
+    color: #024e76;
 }
